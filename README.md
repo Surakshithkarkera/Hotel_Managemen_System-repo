@@ -13,6 +13,6 @@ This project is a simple hotel management system that helps manage bookings, cus
 - Billing system
 
 ## Technologies Used
-- Python / Java / JavaScript
-- MySQL / SQLite
+- HTML, CSS , JavaScript and PHP
+- MySQL 
 
