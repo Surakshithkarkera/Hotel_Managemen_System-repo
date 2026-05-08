@@ -2,7 +2,7 @@
 My first github project
 <br>
 Author - S Surakshith
-# Hotel Management System
+# Coastal_deluxe
 
 ## Description
 This project is a simple hotel management system that helps manage bookings, customers, and rooms.
