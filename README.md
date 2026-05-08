@@ -1,4 +1,4 @@
-# Hotel_Managemen_System-repo
+# Coastal-deluxe-repo
 My first github project
 <br>
 Author - S Surakshith
